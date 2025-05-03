@@ -1,4 +1,4 @@
-# 📝 Assignment: Database Design and Normalization
+📝 Assignment: Database Design and Normalization
 
 -- Question 01
 
